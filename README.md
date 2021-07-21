@@ -1,9 +1,10 @@
-### Login/password for modal: admin.
-## Ссылка на GitHub Pages: https://rezcik.github.io/
+# Login/password for modal: admin.
 
-### На других хостингах загрузка происходит быстрее.
-### Ссылка на Beget: http://y92923lu.beget.tech/htc_test/index.html;
-### Ссылка на Heroku: https://htc-izh.herokuapp.com/
+### На GitHub Pages загрузка страницы происходит дольше, чем на других хостингах.
+
+- Ссылка на GitHub Pages: https://rezcik.github.io/
+- Ссылка на Beget: http://y92923lu.beget.tech/htc_test/index.html;
+- Ссылка на Heroku: https://htc-izh.herokuapp.com/
 
 ### Для корректной работы в браузере IE11 необходим запуск через протокол http.
 Внизу вкладка Known issuies: 
